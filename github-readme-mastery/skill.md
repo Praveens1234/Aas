@@ -9,7 +9,6 @@ description: >
   and advanced techniques for repository documentation excellence.
 category: documentation
 difficulty: intermediate-to-advanced
-estimated_reading_time: 45 minutes
 last_updated: 2026-04-03
 ---
 
