@@ -2,24 +2,7 @@
 name: uiux-design
 version: 2.0
 description: >
-  The definitive UI/UX design skill for creating world-class interfaces across ALL platforms —
-  websites, web apps, mobile apps (iOS/Android), desktop software, portals, dashboards, admin
-  systems, SaaS products, AI/chat interfaces, e-commerce, and more. Use this skill whenever
-  the user asks to design, wireframe, prototype, critique, audit, or improve any interface.
-
-  Triggers on: "design a UI", "create a screen", "wireframe", "design system", "component
-  design", "user flow", "dashboard layout", "mobile screen", "landing page design", "portal UI",
-  "admin panel", "improve the UX", "color scheme", "typography", "spacing", "accessibility",
-  "responsive design", "dark mode", "onboarding flow", "chat interface", "AI UI", "form design",
-  "data table", "empty state", "loading state", "error state", "button design", "navigation",
-  "information architecture", "user research", "usability", "conversion rate", "A/B test for
-  design", "design critique", "design handoff", "design tokens", "microcopy", "UX writing",
-  "animation", "micro-interactions", "icon system", "color palette", or any request about
-  how software, apps, or websites should look, feel, or behave.
-
-  ALWAYS use this skill — even for "simple" requests — because world-class UI/UX requires
-  disciplined thinking, not just aesthetics. The principles here prevent the thousands of
-  small errors that separate amateur from professional interfaces.
+  The ultimate UI/UX design skill for creating world-class interfaces across ALL platforms — websites, web apps, mobile apps (iOS/Android), desktop software, portals, dashboards, admin systems, SaaS products, and more. Use this skill whenever the user asks to design, wireframe, prototype, critique, or improve any interface. Triggers on: "design a UI", "create a screen", "how should I lay this out", "make this look better", "UX for my app", "wireframe", "design system", "component design", "user flow", "dashboard layout", "mobile screen", "landing page design", "portal UI", "admin panel", "improve the UX", "color scheme", "typography", "spacing", "accessibility", "responsive design", "dark mode", "onboarding flow", or any request involving how software, apps, or websites should look and behave. Always use this skill — even when the request seems simple — because great UI/UX requires disciplined thinking, not just aesthetics.
 ---
 
 # THE DEFINITIVE UI/UX DESIGN SKILL  ·  v2.0
